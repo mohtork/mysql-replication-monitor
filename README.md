@@ -18,7 +18,7 @@ Edit setup.ini:
 
 Add cronjob:
 
-    $ add a crontab to excute the script
+    $ add a cronjob to excute the script
 
 ## Inputs
 
